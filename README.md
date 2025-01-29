@@ -1,4 +1,4 @@
-# BLE-Macro-Keyboard
+# ESP32-BLE-Macro-Keyboard
 Một số lưu ý:
 - Ngoài các file có chữ hid (hidd) trong tên, các file còn lại đều là do nhóm tự viết và thiết kế.
 - Tín hiệu đọc ADC từ biến trở do khối ULP kiểm soát (quét giá trị mỗi 20ms), khối ULP được lập trình bằng ngôn ngữ Assembly và được nhúng vào file main.c khi compile bằng cách sửa đổi file cmake. Từ đó hàm main.c có thể lấy dữ liệu và xử lý các biến của khối ULP (có tiền tố ulp_*).
