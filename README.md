@@ -9,6 +9,7 @@ Một số lưu ý:
   ![image](https://github.com/user-attachments/assets/046993eb-75bb-4525-a03e-e6be01c4c5e6)
 
 - Mô hình 3D:
+  
   ![image](https://github.com/user-attachments/assets/1fb5c4f0-3204-40b0-a6d3-0f04c846a506)
 
 - Mạch in thủ công:
